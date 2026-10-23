@@ -1,0 +1,28 @@
+{
+  "data": "2026-10-23",
+  "origem": "Voragon_Comercial/prototipos/lumino",
+  "arquivos_incluidos": 13,
+  "exclusoes": [
+    {
+      "path": "apresentacao-lumino.mp4",
+      "reason": "runtime/private/generated format"
+    },
+    {
+      "path": ".env.local",
+      "reason": "environment"
+    },
+    {
+      "path": "demonstracao-lumino.zip",
+      "reason": "runtime/private/generated format"
+    },
+    {
+      "path": "PRECO_INTERNO.md",
+      "reason": "private operational documentation"
+    },
+    {
+      "path": "apresentacao-lumino.pdf",
+      "reason": "runtime/private/generated format"
+    }
+  ],
+  "nota": "Publicação de acervo. Credenciais, dados operacionais, sessões e backups não foram incluídos. Não é release de produção."
+}

@@ -1,0 +1,9 @@
+*.md
+*.py
+*.mp4
+*.pdf
+*.zip
+*.png
+.vercel
+.env*
+.gitignore
